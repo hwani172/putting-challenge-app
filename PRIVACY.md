@@ -1,6 +1,6 @@
 # 퍼팅스타 개인정보 처리방침 / Putting Star Privacy Policy
 
-시행일: 2026년 11월 9일 (1.1.8 광고 추가로 고침) · Effective: November 9, 2026 (updated for ads in 1.1.8)
+시행일: 2026년 11월 9일 (1.1.8 광고·광고 없애기 추가로 고침) · Effective: November 9, 2026 (updated for ads and remove-ads purchase in 1.1.8)
 
 ## 한국어
 
@@ -18,11 +18,12 @@
    - 기기 정보(기기 모델, 운영체제 버전, 언어 등)와 광고를 보거나 누른 기록, 진단 정보
    - **맞춤 광고 선택**: 유럽 경제 지역·영국 이용자에게는 처음 켤 때 구글의 동의 창이 뜨고, 앱 설정의 '광고 개인정보 설정'에서 언제든 다시 고를 수 있습니다. 아이폰은 애플의 '추적 허용' 창에서 고를 수 있고(설정 → 개인정보 보호 및 보안 → 추적에서 바꿀 수 있음), 안드로이드는 휴대폰 설정의 '광고 ID'에서 재설정·삭제할 수 있습니다. 동의하지 않아도 광고는 나오지만 맞춤이 아닌 광고가 나옵니다.
    - 처리는 [구글 개인정보처리방침](https://policies.google.com/privacy)과 [구글이 파트너 앱의 정보를 사용하는 방법](https://policies.google.com/technologies/partner-sites)을 따릅니다.
-5. **다른 분석 도구: 없음.** 개발자가 따로 넣은 분석 도구는 없습니다.
-6. **어린이.** 앱은 13세 미만 어린이를 대상으로 하지 않습니다.
-7. **다른 앱으로 이동.** 홈 화면의 '골프번개' 소개를 누르면 플레이 스토어·앱스토어로 이동합니다.
-8. **앞으로 바뀌는 경우.** 정보 처리가 늘어나는 기능(예: 앱 안 구입)을 넣으면 업데이트 전에 이 방침을 고쳐 알립니다.
-9. **문의:** hwani172@gmail.com
+5. **광고 없애기 구입(1.1.8부터).** 한 번 사면 광고가 나오지 않는 상품을 팝니다. 결제는 **구글 플레이·애플 앱스토어**가 처리하며, 개발자는 카드 번호 같은 결제 정보를 받지 않습니다. 산 기록은 구글·애플 계정에 남아 폰을 바꿔도 '구입 복원'으로 되살릴 수 있습니다.
+6. **다른 분석 도구: 없음.** 개발자가 따로 넣은 분석 도구는 없습니다.
+7. **어린이.** 앱은 13세 미만 어린이를 대상으로 하지 않습니다.
+8. **다른 앱으로 이동.** 홈 화면의 '골프번개' 소개를 누르면 플레이 스토어·앱스토어로 이동합니다.
+9. **앞으로 바뀌는 경우.** 정보 처리가 늘어나는 기능을 넣으면 업데이트 전에 이 방침을 고쳐 알립니다.
+10. **문의:** hwani172@gmail.com
 
 ## English
 
@@ -40,8 +41,9 @@ The developer of **Putting Star** ("the app") does not collect or store your per
    - device information (model, OS version, language) and records of ads you viewed or tapped, plus diagnostics data
    - **Choosing personalized ads**: users in the EEA and UK see Google's consent form on first launch and can change it any time under "Ad privacy choices" in the app's settings. On iPhone you choose in Apple's tracking prompt (change it in Settings → Privacy & Security → Tracking); on Android you can reset or delete your advertising ID in your phone's settings. If you decline, you still see ads, but they are not personalized.
    - This is handled under the [Google Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
-5. **No other analytics SDKs** of our own.
-6. **Children.** The app is not directed to children under 13.
-7. **Links to other apps.** Tapping the "Golf Bunge" card opens the Google Play Store or the App Store.
-8. **Changes.** If we add features that process more data (such as in-app purchases), we will update this policy before that update is released.
-9. **Contact:** hwani172@gmail.com
+5. **Remove-ads purchase (from 1.1.8).** We sell a one-time purchase that turns ads off. Payment is handled by **Google Play or the Apple App Store**; we never receive your card or payment details. The purchase stays with your Google or Apple account, so you can restore it on a new phone.
+6. **No other analytics SDKs** of our own.
+7. **Children.** The app is not directed to children under 13.
+8. **Links to other apps.** Tapping the "Golf Bunge" card opens the Google Play Store or the App Store.
+9. **Changes.** If we add features that process more data, we will update this policy before that update is released.
+10. **Contact:** hwani172@gmail.com
